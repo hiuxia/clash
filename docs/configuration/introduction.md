@@ -27,7 +27,7 @@ Outbound is the component that connects to the remote end. Depending on the conf
 
 ## Rule-based Routing
 
-Clash supports rule-based routing, which means you can route packets to different outbounds based on the a variety of contraints. The rules can be defined in the `rules` section of the configuration file.
+Clash supports rule-based routing, which means you can route packets to different outbounds based on the a variety of constraints. The rules can be defined in the `rules` section of the configuration file.
 
 There's a number of available rule types, and each rule type has its own syntax. The general syntax of a rule is:
 
